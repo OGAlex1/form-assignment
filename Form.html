@@ -51,12 +51,32 @@
         name="password"
         id="password"
         placeholder="password"
-        required
+        required minlength="5"
+        maxlength="10"
       />
       <br />
 
-      <label for="month">Month</label>
-      <input type="date" name="month" id="month" required /><br />
+     <select name="month" id="birthday">
+            <option>Month</option>
+            <option>January</option>
+            <option>February</option>
+            <option>March</option>
+            <option>April</option>
+        </select>
+        <select name="day" id="birthday">
+            <option>Day</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+        </select>
+        <select name="year" id="birthday">
+            <option>Year</option>
+            <option>2025</option>
+            <option>2024</option>
+            <option>2023</option>
+            <option>2022</option>
+        </select><br />
 
       I agress to the terms and condition
 
@@ -67,3 +87,4 @@
     </form>
   </body>
 </html>
+
