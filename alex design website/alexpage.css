@@ -1,0 +1,58 @@
+body {
+  background-color: #bdc3c7;
+}
+h3 {
+  color: #ff0000;
+  font-weight: 800;
+  font-family: helvetica;
+}
+.aboutp {
+  font-size: 18px;
+  font-family: franklin;
+  margin-left: 1%;
+}
+.lineli {
+  color: #ff0000;
+}
+img {
+  float: left;
+  width: 200px;
+  margin: 1%;
+}
+.send {
+  background: #ff0000;
+  float: left 1.6%;
+}
+form {
+  background-color: #f57f17;
+  width: 20%;
+}
+h1 {
+  color: #f57f17;
+}
+h2 {
+  border-bottom: #f57f17 solid;
+  width: 26%;
+  float: right 1.6%;
+  padding-bottom: 5px;
+}
+strong {
+  color: #ff0000;
+}
+.our {
+  border-bottom: black solid;
+  width: 200px;
+  margin: 1.6%;
+  letter-spacing: 1.5px;
+}
+.home {
+  font-family: franklin;
+  font-weight: 800;
+  font-size: large;
+  padding: 1.6%;
+  margin: 1.6%;
+}
+#list {
+  initial-letter-align: 5px;
+  margin: 5px;
+}
