@@ -1,0 +1,46 @@
+body {
+  background-color: #f57f17;
+}
+h1 {
+  font-family: impact;
+  border-bottom: rgb(255, 254, 254) solid;
+  width: 470px;
+  padding-bottom: 4px;
+  margin: 10px;
+  letter-spacing: 2px;
+  border: rgb(210, 30, 30) double;
+  width: 38%;
+  height: 39px;
+  background-color: red;
+}
+h4 {
+  color: white;
+  font-weight: 750;
+  padding-left: 20px;
+}
+img {
+  padding-left: 20px;
+}
+s {
+  font-weight: 200;
+  color: red;
+  padding-left: 20px;
+}
+h5 {
+  font-size: large;
+  padding-left: 20px;
+}
+ul {
+  color: bisque;
+  font-family: monospace;
+  line-height: 20px;
+}
+h3 {
+  font-family: Mozilla;
+  font-weight: bold;
+  padding-left: 20px;
+}
+.textt {
+  font-family: Mozilla;
+  padding-left: 20px;
+}
